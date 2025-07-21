@@ -10,13 +10,13 @@ bookcase_width = 768;
 bookcase_height = 2235;
 
 shelf_1 = 80;
-shelf_2 = shelf_1 + thickness + 410;
-shelf_3 = shelf_2 + thickness + 250;
-shelf_4 = shelf_3 + thickness + 250;
-shelf_5 = shelf_4 + thickness + 250;
-shelf_6 = shelf_5 + thickness + 250;
-shelf_7 = shelf_6 + thickness + 250;
-shelf_8 = shelf_7 + thickness + 250;
+shelf_2 = shelf_1 + thickness + 350;
+shelf_3 = shelf_2 + thickness + 260;
+shelf_4 = shelf_3 + thickness + 260;
+shelf_5 = shelf_4 + thickness + 260;
+shelf_6 = shelf_5 + thickness + 260;
+shelf_7 = shelf_6 + thickness + 260;
+shelf_8 = shelf_7 + thickness + 270;
 
 gameshelf_depth = 500;
 gameshelf_beam_depth = 510;
